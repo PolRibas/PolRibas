@@ -1,5 +1,3 @@
-# Pol Ribas
-
 ### A bit about me
 
 I am a visionary, detail-oriented professional with a deep passion for blending creativity and technology to craft impactful solutions. With a strong commitment to excellence, I thrive on pushing the boundaries of innovation, ensuring that each project I undertake is both functional and inspiring.
