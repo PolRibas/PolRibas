@@ -1,5 +1,38 @@
-# Hi, I'm Pol! 👋
-Below is a fun ASCII signature you can use in your README (though GitHub doesn’t interpret ANSI color codes, it’ll still look neat in code blocks or terminals). Feel free to adapt it!
-```bash\necho -e '\n\\e[96m   __________  \\e[33m  __________    \\e[91m ___  \\e[92m  ___________  \\e[95m ___________  \\e[96m  ____  \\e[92m  ____      ____\n\\e[96m  /     _____| \\e[33m | |  ___    \\  \\e[91m|___| \\e[92m |____       | \\e[95m|____       | \\e[96m |  | | \\e[92m  \\ \\ \\    / / /\n\\e[96m /    _______| \\e[33m | | |   |    | \\e[91m ___  \\e[92m |______    /  \\e[95m|______    /  \\e[96m |  | | \\e[92m   \\ \\ \\  / / /\n\\e[96m|    |   _____ \\e[33m |    \\_/    /  \\e[91m|   | \\e[92m     /     /   \\e[95m    /     /   \\e[96m |    | \\e[92m    \\ \\ \\/ / /\n\\e[96m|  \\  \\_|  | | \\e[33m |    __    /   \\e[91m|   | \\e[92m    /  /  /__  \\e[95m   /  /  /__  \\e[96m |    |____  \\e[92m\\      /\n\\e[96m \\  \\      | | \\e[33m | | |  \\ \\ \\   \\e[91m| | | \\e[92m   /  /   ___| \\e[95m  /  /   ___| \\e[96m |      ___| \\e[92m | || |\n\\e[96m  \\__________| \\e[33m |_|_|   \\_\\_\\  \\e[91m|_|_| \\e[92m  |__________| \\e[95m |__________| \\e[96m |_________| \\e[92m |____|\n\\e[0m\n'\n```
-\n\n## About Piar Concept\nPiar Concept is a visionary force where **creativity**, **technology**, and **perfectionism** converge. We develop impactful projects that transcend conventional boundaries, merging high-level branding, advanced software engineering, brand image design, and spatial design into holistic solutions. We don’t just create products; we craft immersive experiences that resonate with audiences on both conscious and subconscious levels.\n\n### What We Do\n- **High-Level Branding & Identity**: We shape authentic and distinctive brand identities that leave a mark.\n- **Advanced Software Development**: Leveraging cutting-edge technologies, Domain-Driven Design, and Clean Architecture to ensure scalable, maintainable, and efficient platforms.\n- **Spatial Design**: Bringing together aesthetics, functionality, and emotional depth in every physical environment we create.\n- **AI Integration & Innovation**: Infusing solutions with artificial intelligence and other advanced tools to unlock new possibilities—sports, technology, fashion, logistics, and beyond.\n\n### Our Approach\nAt Piar Concept, we believe in a detail-oriented methodology that sets new standards in quality and innovation. Based in Barcelona and operating globally, our team of experts in design, development, and photography takes pride in forming close, collaborative relationships with clients. We offer continuous support and consulting to ensure each project reaches its full potential.\n\n### Technology & Tools\n- Modern Web Frameworks & Libraries for building fast, reliable platforms.\n- Cloud & CI/CD Services ensuring seamless deployment and scaling.\n- Advanced Engineering Principles like Domain-Driven Design and Clean Architecture for structured, future-proof solutions.\n- AI & Machine Learning, integrating intelligent features that adapt and evolve.\n- Modern Design Systems & Tools, ensuring every digital product is visually cohesive and user-friendly.\n\n### Thanks for stopping by\nHope you enjoy exploring my profile, and feel free to reach out if you have any questions or want to collaborate. Cheers!\n
+```
+   __________    __________     ___    ___________   ___________    ____    ____      ____
+  /     _____|  | |  ___    \  |___|  |____       | |____       |  |  | |   \ \ \    / / /
+ /    _______|  | | |   |    |  ___   |______    /  |______    /   |  | |    \ \ \  / / /
+|    |   _____  |    \_/    /  |   |      /     /       /     /    |    |     \ \ \/ / /
+|  \  \_|  | |  |    __    /   |   |     /  /  /__     /  /  /__   |    |____  \      /
+ \  \      | |  | | |  \ \ \   | | |    /  /   ___|   /  /   ___|  |      ___|  | || |
+  \__________|  |_|_|   \_\_\  |_|_|   |__________|  |__________|  |_________|  |____|
 
+```
+
+[![Catalònia Hoquei Club](https://img.shields.io/badge/Visita%20la%20Nueva%20Web%20de-Catalònia%20Hoquei%20Club-ff0000?style=for-the-badge)](https://cataloniahoqueiclub.com)
+
+### Un poco sobre mí
+- **CTO & Founder** en [**Piar Concept**](https://github.com/piar-concept) (mi laboratorio de ideas y tecnología).
+- **Head of Communication & Brand Development** en [**Catalònia Hoquei Club**](https://cataloniahoqueiclub.com).  
+  - He rediseñado la imagen del club, la web, y organizo proyectos y eventos para mantener viva la pasión por el hockey.
+- Anteriormente, he colaborado con **ISDIN** y **Amphora** como desarrollador full stack, optimizando rendimiento, lanzando plataformas e impulsando la transformación digital.
+
+### ¿Qué hago?
+- Combino **creatividad y tecnología** para resolver problemas de forma innovadora.  
+- Me encanta trabajar con **Next.js**, **Tailwind CSS**, **Docker**, **AWS**, y metodologías como **Domain-Driven Design** o **Clean Architecture**.  
+- Disfruto creando interfaces atractivas y **backends** robustos que hagan la vida más fácil.
+
+### Último hito
+> **¡He lanzado la nueva web MVP de Catalònia Hoquei Club!**  
+> Construida con Next.js, Tailwind CSS y animaciones con Framer Motion, todo desplegado en Vercel.  
+> Un proyecto con alma deportiva y mucha ilusión por conectar a la comunidad.
+
+### Mi mantra
+> “Si puedes imaginarlo, puedes construirlo. Sin límites y sin miedo.”
+
+¡Gracias por pasarte por mi perfil!  
+¿Hablamos? Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-perfil) o mandarme un [email](mailto:tu-correo@example.com).
+
+---
+
+<sub>_Me encanta el hockey, el código limpio y las buenas historias._</sub>
