@@ -1,4 +1,4 @@
-# Hi, I'm Pol! 👋
+# Pol Ribas
 
 ### A bit about me
 
