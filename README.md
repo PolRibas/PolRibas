@@ -1,38 +1,40 @@
-```
-   __________    __________     ___    ___________   ___________    ____    ____      ____
-  /     _____|  | |  ___    \  |___|  |____       | |____       |  |  | |   \ \ \    / / /
- /    _______|  | | |   |    |  ___   |______    /  |______    /   |  | |    \ \ \  / / /
-|    |   _____  |    \_/    /  |   |      /     /       /     /    |    |     \ \ \/ / /
-|  \  \_|  | |  |    __    /   |   |     /  /  /__     /  /  /__   |    |____  \      /
- \  \      | |  | | |  \ \ \   | | |    /  /   ___|   /  /   ___|  |      ___|  | || |
-  \__________|  |_|_|   \_\_\  |_|_|   |__________|  |__________|  |_________|  |____|
+# Hi, I'm Pol! 👋
 
-```
+### A bit about me
 
-[![Catalònia Hoquei Club](https://img.shields.io/badge/Visita%20la%20Nueva%20Web%20de-Catalònia%20Hoquei%20Club-ff0000?style=for-the-badge)](https://cataloniahoqueiclub.com)
+I am a visionary, detail-oriented professional with a deep passion for blending creativity and technology to craft impactful solutions. With a strong commitment to excellence, I thrive on pushing the boundaries of innovation, ensuring that each project I undertake is both functional and inspiring.
 
-### Un poco sobre mí
-- **CTO & Founder** en [**Piar Concept**](https://github.com/piar-concept) (mi laboratorio de ideas y tecnología).
-- **Head of Communication & Brand Development** en [**Catalònia Hoquei Club**](https://cataloniahoqueiclub.com).  
-  - He rediseñado la imagen del club, la web, y organizo proyectos y eventos para mantener viva la pasión por el hockey.
-- Anteriormente, he colaborado con **ISDIN** y **Amphora** como desarrollador full stack, optimizando rendimiento, lanzando plataformas e impulsando la transformación digital.
+My approach is rooted in holistic, forward-thinking design, where I’m involved in every phase—from architectural planning to strategic brand direction. I believe in delivering outcomes that not only meet high standards but also resonate with clients, creating lasting value.
 
-### ¿Qué hago?
-- Combino **creatividad y tecnología** para resolver problemas de forma innovadora.  
-- Me encanta trabajar con **Next.js**, **Tailwind CSS**, **Docker**, **AWS**, y metodologías como **Domain-Driven Design** o **Clean Architecture**.  
-- Disfruto creando interfaces atractivas y **backends** robustos que hagan la vida más fácil.
+Collaboration and strategic insight drive my work. Working alongside diverse talent, I aim to merge creative and technical expertise, bringing transformative ideas to life. For me, each project is an opportunity to exceed expectations, fostering connections and inspiring through solutions that stand out and add real value.
 
-### Último hito
-> **¡He lanzado la nueva web MVP de Catalònia Hoquei Club!**  
-> Construida con Next.js, Tailwind CSS y animaciones con Framer Motion, todo desplegado en Vercel.  
-> Un proyecto con alma deportiva y mucha ilusión por conectar a la comunidad.
+### Current Roles
+- **CTO & Founder** at [**Piar Concept**](https://piarconcept.com) (my ideas and tech lab).
+- **Head of Communication & Brand Development** at [**Catalònia Hoquei Club**](https://cataloniahoqueiclub.com).
+- Previously worked with **ISDIN** and **Amphora** as a full-stack developer, optimizing performance, launching platforms, and driving digital transformation.
 
-### Mi mantra
-> “Si puedes imaginarlo, puedes construirlo. Sin límites y sin miedo.”
+### What I Do
+- **High-Level Branding & Identity:** Crafting authentic, distinctive brand identities.
+- **Advanced Software Development:** Using cutting-edge technologies, Domain-Driven Design, and Clean Architecture.
+- **Spatial Design:** Creating spaces blending aesthetics, functionality, and emotional depth.
+- **AI Integration & Innovation:** Incorporating AI to explore sectors like sports, fashion, tech, and logistics.
 
-¡Gracias por pasarte por mi perfil!  
-¿Hablamos? Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-perfil) o mandarme un [email](mailto:tu-correo@example.com).
+### Technology & Tools
+- Modern Web Frameworks & Libraries
+- Cloud & CI/CD Services
+- Domain-Driven Design & Clean Architecture
+- AI & Machine Learning
+- Modern Design Systems
 
----
+### Latest Articles
+Read my hockey-related articles at [Catalònia Hoquei Club](https://cataloniahc.com/en/articles?authorId=676874fb64cc1973f8143ced#articles-list).
 
-<sub>_Me encanta el hockey, el código limpio y las buenas historias._</sub>
+### My Mantra
+> _“Intelligence without ambition is a bird without wings.”_ – Salvador Dalí
+
+## Contact & More Information
+- **LinkedIn:** [pol-ribas-rovira]([https://linkedin.com/company/piar-concept](https://www.linkedin.com/in/pol-ribas-rovira/))  
+- **Instagram:** [@ribas_pol]([https://instagram.com/piarconcept](https://www.instagram.com/ribas_pol/))
+- **Email:** [polribasrovira@gmail.com](mailto:polribasrovira@gmail.com)
+
+Feel free to reach out if you're interested in discussing potential collaborations or have any questions. While we aren't currently accepting public contributions, we appreciate community engagement and may open repositories or discussions in the future.
