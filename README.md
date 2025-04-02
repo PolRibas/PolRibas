@@ -1,29 +1,30 @@
-# ¡Hola, soy Pol! 👋
+# Hi, I'm Pol! 👋
 
-[![Catalònia Hoquei Club](https://img.shields.io/badge/Visita%20la%20Nueva%20Web%20de-Catalònia%20Hoquei%20Club-ff0000?style=for-the-badge)](https://cataloniahoqueiclub.com)
+[![Catalònia Hoquei Club](https://img.shields.io/badge/Check%20out%20the%20new-Catalònia%20Hoquei%20Club%20Website-ff0000?style=for-the-badge)](https://cataloniahoqueiclub.com)
 
-### Un poco sobre mí
-- **CTO & Founder** en [**Piar Concept**](https://github.com/piar-concept) (mi laboratorio de ideas y tecnología).
-- **Head of Communication & Brand Development** en [**Catalònia Hoquei Club**](https://cataloniahoqueiclub.com).  
-  - He rediseñado la imagen del club, la web, y organizo proyectos y eventos para mantener viva la pasión por el hockey.
-- Anteriormente, he colaborado con **ISDIN** y **Amphora** como desarrollador full stack, optimizando rendimiento, lanzando plataformas e impulsando la transformación digital.
+### A bit about me
+- **CTO & Founder** at [**Piar Concept**](https://piarconcept.com) (my own ideas & tech lab).
+- **Head of Communication & Brand Development** at [**Catalònia Hoquei Club**](https://cataloniahoqueiclub.com).
+  - Redesigned the club's identity and website, organizing events and projects to keep the hockey spirit alive.
+- Previously, I've worked as a full-stack developer with **ISDIN** and **Amphora**, enhancing performance, launching platforms, and driving digital transformation.
 
-### ¿Qué hago?
-- Combino **creatividad y tecnología** para resolver problemas de forma innovadora.  
-- Me encanta trabajar con **Next.js**, **Tailwind CSS**, **Docker**, **AWS**, y metodologías como **Domain-Driven Design** o **Clean Architecture**.  
-- Disfruto creando interfaces atractivas y **backends** robustos que hagan la vida más fácil.
+### What I do
+- Blend **creativity and technology** to solve problems innovatively.
+- Love working with **Next.js**, **Tailwind CSS**, **Docker**, **AWS**, and methodologies like **Domain-Driven Design** and **Clean Architecture**.
+- Passionate about crafting beautiful interfaces and robust backends that simplify lives.
 
-### Último hito
-> **¡He lanzado la nueva web MVP de Catalònia Hoquei Club!**  
-> Construida con Next.js, Tailwind CSS y animaciones con Framer Motion, todo desplegado en Vercel.  
-> Un proyecto con alma deportiva y mucha ilusión por conectar a la comunidad.
+### Latest milestone
+> **Launched the new Catalònia Hoquei Club website (MVP)!**  
+> Built with Next.js, styled with Tailwind CSS, animated using Framer Motion, and deployed on Vercel.  
+> A sports-focused project created with lots of passion and community in mind.
 
-### Mi mantra
-> “Si puedes imaginarlo, puedes construirlo. Sin límites y sin miedo.”
+### My mantra
+> “If you can imagine it, you can build it. No limits, no fear.”
 
-¡Gracias por pasarte por mi perfil!  
-¿Hablamos? Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-perfil) o mandarme un [email](mailto:tu-correo@example.com).
+Thanks for stopping by!  
+Wanna chat? Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or drop me an [email](mailto:your-email@example.com).
 
 ---
 
-<sub>_Me encanta el hockey, el código limpio y las buenas historias._</sub>
+<sub>_I love hockey, clean code, and great stories._</sub>
+
