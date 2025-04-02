@@ -33,8 +33,8 @@ Read my hockey-related articles at [Catalònia Hoquei Club](https://cataloniahc.
 > _“Intelligence without ambition is a bird without wings.”_ – Salvador Dalí
 
 ## Contact & More Information
-- **LinkedIn:** [pol-ribas-rovira]([https://linkedin.com/company/piar-concept](https://www.linkedin.com/in/pol-ribas-rovira/))  
-- **Instagram:** [@ribas_pol]([https://instagram.com/piarconcept](https://www.instagram.com/ribas_pol/))
+- **LinkedIn:** [pol-ribas-rovira]([https://www.linkedin.com/in/pol-ribas-rovira])  
+- **Instagram:** [@ribas_pol]([https://www.instagram.com/ribas_pol/])
 - **Email:** [polribasrovira@gmail.com](mailto:polribasrovira@gmail.com)
 
 Feel free to reach out if you're interested in discussing potential collaborations or have any questions. While we aren't currently accepting public contributions, we appreciate community engagement and may open repositories or discussions in the future.
