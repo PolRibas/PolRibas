@@ -5,7 +5,7 @@
  | |_| | |_) | |_| |  __/ /\__ \| |_| | |_| |\__, |
   \___/| .__/ \__|_|\___/_/ |___/ \___/ \___/   /_/
        |_|                                      
-
+```
 # Hi, I'm Pol! 👋
 
 ### A bit about me
@@ -28,5 +28,4 @@ Wanna chat? Connect with me on [LinkedIn](https://www.linkedin.com/in/pol-ribas-
 ---
 
 <sub>_I love hockey, clean code, and inspiring stories._</sub>
-```
 
