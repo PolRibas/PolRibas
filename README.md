@@ -7,7 +7,7 @@ My approach is rooted in holistic, forward-thinking design, where I’m involved
 Collaboration and strategic insight drive my work. Working alongside diverse talent, I aim to merge creative and technical expertise, bringing transformative ideas to life. For me, each project is an opportunity to exceed expectations, fostering connections and inspiring through solutions that stand out and add real value.
 
 ### Current Roles
-- **CTO & Founder** at [**Piar Concept**](https://piarconcept.com) (my ideas and tech lab).
+- **Founder** at [**Piar Concept**](https://piarconcept.com) (my ideas and tech lab).
 - **Head of Communication & Brand Development** at [**Catalònia Hoquei Club**](https://cataloniahoqueiclub.com).
 - Previously worked with **ISDIN** and **Amphora** as a full-stack developer, optimizing performance, launching platforms, and driving digital transformation.
 
